@@ -13,7 +13,7 @@ I'm a begginer front-end developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="35" height="35"/>&nbsp;
 </div>
 
-## Check out my recent projects:
+### Check out my recent projects:
 
 [**Stellar Burgers React Project**](https://github.com/keepitdown/react-burger)
 
