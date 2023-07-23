@@ -13,11 +13,12 @@ I'm a begginer front-end developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="35" height="35"/>&nbsp;
 </div>
 
-## Check out my projects:
-**Stellar Burgers React Project**
+## Check out my recent projects:
 
-<img src="./stellar.jpg" alt="Stellar Burgers React Project" height="200">
+[**Stellar Burgers React Project**](https://github.com/keepitdown/react-burger)
 
-**Mesto Vanilla JS Project**
+<img src="./stellar.jpg" alt="Stellar Burgers React Project" width="200">
 
-<img src="./mesto" alt="Mesto Vanilla JS Project" height="200">
+[**Mesto Vanilla JS Project**](https://github.com/keepitdown/mesto-project-bootcamp)
+
+<img src="./mesto.jpg" alt="Mesto Vanilla JS Project" width="200">
