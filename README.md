@@ -12,3 +12,12 @@ I'm a begginer front-end developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="35" height="35"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="35" height="35"/>&nbsp;
 </div>
+
+## Check out my projects:
+**Stellar Burgers React Project**
+
+<img src="./stellar.jpg" alt="Stellar Burgers React Project" height="200">
+
+**Mesto Vanilla JS Project**
+
+<img src="./mesto" alt="Mesto Vanilla JS Project" height="200">
