@@ -22,3 +22,7 @@ I'm a begginer front-end developer.
 [**Mesto Vanilla JS Project**](https://github.com/keepitdown/mesto-project-bootcamp)
 
 <img src="./mesto.jpg" alt="Mesto Vanilla JS Project" width="200">
+
+[**Travel Across Russia Adaptive Layout Project**](https://github.com/keepitdown/russian-travel-bootcamp)
+
+<img src="./travel" alt="Travel Across Russia Adaptive Layout Project" width="200">
