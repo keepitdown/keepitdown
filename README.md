@@ -25,4 +25,4 @@ I'm a begginer front-end developer.
 
 [**Travel Across Russia Adaptive Layout Project**](https://github.com/keepitdown/russian-travel-bootcamp)
 
-<img src="./travel" alt="Travel Across Russia Adaptive Layout Project" width="200">
+<img src="./travel.jpg" alt="Travel Across Russia Adaptive Layout Project" width="200">
