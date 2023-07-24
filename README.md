@@ -2,6 +2,11 @@
 
 I'm a begginer front-end developer.
 
+## My contacts:
+
+[<img src="./email-envelope.svg" vertical-align="baseline" title="Email" alt="Email" width="" height="25px"/>](mailto:keepitdown@gmail.com)&nbsp;
+[<img src="./telegram-logo.svg" vertical-align="baseline" title="Email" alt="Email" width="" height="25px"/>](https://t.me/keepitdown)
+
 ### Technologies i'm using:
 
 <div>
