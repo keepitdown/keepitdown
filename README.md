@@ -1,14 +1,8 @@
-## Welcome to my GitHub!
+## Добро пожаловать в мой профиль GitHub!
 
-I'm a begginer front-end developer.
+Я занимаюсь frontend-разработкой.
 
-## My contacts:
-
-[<img src="./email-envelope.svg" vertical-align="baseline" title="Email" alt="Email" height="35px"/>](mailto:keepitdown@gmail.com)&ensp;
-[<img src="./telegram-logo.svg" vertical-align="baseline" title="Email" alt="Email" height="35px"/>](https://t.me/keepitdown)
-
-
-### Technologies i'm using:
+### Мой стэк технологий:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="35" height="35"/>&nbsp;
@@ -19,16 +13,16 @@ I'm a begginer front-end developer.
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="35" height="35"/>&nbsp;
 </div>
 
-### Check out my projects:
+### Мои проекты:
 
-[**Stellar Burgers React Project**](https://github.com/keepitdown/react-burger)
+[**Stellar Burgers (React)**](https://github.com/keepitdown/react-burger)
 
 <img src="./stellar.jpg" alt="Stellar Burgers React Project" width="200">
 
-[**Mesto Vanilla JS Project**](https://github.com/keepitdown/mesto-project-bootcamp)
+[**Mesto (Vanilla JS)**](https://github.com/keepitdown/mesto-project-bootcamp)
 
 <img src="./mesto.jpg" alt="Mesto Vanilla JS Project" width="200">
 
-[**Travel Across Russia Adaptive Layout Project**](https://github.com/keepitdown/russian-travel-bootcamp)
+[**Путешествие по России (Адаптивная верстка)**](https://github.com/keepitdown/russian-travel-bootcamp)
 
 <img src="./travel.jpg" alt="Travel Across Russia Adaptive Layout Project" width="200">
