@@ -21,6 +21,6 @@
 
 <img src="./mesto.jpg" alt="Mesto Vanilla JS Project" width="200">
 
-[**Путешествие по России (Адаптивная верстка)**](https://github.com/keepitdown/russian-travel-bootcamp)
+[**Путешествия по России (Адаптивная верстка)**](https://github.com/keepitdown/russian-travel-bootcamp)
 
 <img src="./travel.jpg" alt="Travel Across Russia Adaptive Layout Project" width="200">
